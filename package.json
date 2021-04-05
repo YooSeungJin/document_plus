@@ -1,0 +1,26 @@
+{
+  "name": "document_plus",
+  "version": "1.0.0",
+  "description": "html element create",
+  "main": "./dist/document_plus.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YooSeungJin/document_plus.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YooSeungJin/document_plus/issues"
+  },
+  "homepage": "https://github.com/YooSeungJin/document_plus#readme",
+  "dependencies": {
+    "rollup": "^2.44.0"
+  }
+}
